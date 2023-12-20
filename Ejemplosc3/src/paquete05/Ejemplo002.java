@@ -18,7 +18,7 @@ public class Ejemplo002 {
                 if (f == c) {
                     suma = suma + arreglo[f][c];
                     /*
-                    la posición de filas tiene que ser igual a la posición de 
+                    La posición de filas tiene que ser igual a la posición de 
                     columnas y se crea una variable suma para que represente 
                     los resultados.
                      */
